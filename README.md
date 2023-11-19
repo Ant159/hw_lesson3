@@ -1,2 +1,2 @@
 # hw_lesson3
-for my homework
+for my homework on lesson 3
